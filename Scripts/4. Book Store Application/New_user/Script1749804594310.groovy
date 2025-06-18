@@ -49,10 +49,6 @@ WebUI.setEncryptedText(findTestObject('Book Store Application/password_txt'), '+
 
 WebUI.click(findTestObject('Book Store Application/register_btn'))
 
-WebUI.waitForAlert(5)
-
-WebUI.acceptAlert()
-
 WebUI.delay(2)
 
 WebUI.closeBrowser()
