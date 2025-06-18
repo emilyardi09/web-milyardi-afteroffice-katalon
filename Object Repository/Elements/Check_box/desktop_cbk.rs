@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>desktop_cbk</name>
+   <tag></tag>
+   <elementGuidId>68be7f05-9642-4f6b-a6b3-f44a91048e31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='tree-node-desktop']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='rct-checkbox'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='tree-node-desktop']</value>
+      <webElementGuid>55cedc49-01cd-4fd9-9157-f270c419c682</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

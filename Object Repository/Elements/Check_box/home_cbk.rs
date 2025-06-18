@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>home_cbk</name>
+   <tag></tag>
+   <elementGuidId>a91b3115-ba9b-4cf7-9e7e-6b17c7af2549</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class='rct-text']/child::label[@for='tree-node-home']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='rct-checkbox'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@class='rct-text']/child::label[@for='tree-node-home']</value>
+      <webElementGuid>f1885883-a02b-4fba-8b09-1b890336caa3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

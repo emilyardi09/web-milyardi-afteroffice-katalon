@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>reading_cb</name>
+   <tag></tag>
+   <elementGuidId>c7800f23-88a2-451b-a835-2aabdff1fc40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='hobbiesWrapper']/descendant::div[position()=4]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@for='hobbies-checkbox-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='hobbiesWrapper']/descendant::div[position()=4]</value>
+      <webElementGuid>4ff69349-d7de-44d3-8894-5c6c341ca8db</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
